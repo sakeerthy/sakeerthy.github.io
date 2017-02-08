@@ -1,0 +1,53 @@
+body {
+        background-color: #f7fcff;
+}
+
+h1 {
+        font: 400 26px/1.5 'Playfair Display', Georgia, serif;
+        font-weight: bold;
+        text-align: center;
+
+}
+
+h3 {
+        font: 'Playfair Display', Georgia, serif;
+        font-weight: bold;
+        text-align: center;
+
+}
+
+h5 {
+        margin-top: 0;
+        margin-bottom: 0;
+}
+
+h6 {
+        font: 12px 'Playfair Display', Georgia, serif;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 0; 
+}
+
+
+p {
+        font: 400 12px/1.6 'Muli', Verdana, Helvetica, sans-serif;
+        text-align: center;
+
+}
+
+p2 {
+        font: 400 12px/1.6 'Muli', Verdana, Helvetica, sans-serif;
+        text-align: left;
+        margin-top: 0;
+        margin-bottom: 0;
+}
+
+ul { 
+        margin-top: 0; 
+        margin-bottom: 0;
+}
+
+div {
+
+}
